@@ -172,4 +172,57 @@ public class Solution {
         solution.battleShip(2,2,player1Ships,player2Ships,player1Missiles,player2Missiles);
 
     }
+
+    /*
+Design
+Player
+{
+	List<Missile> missles;
+	List<Ship> ships;
 }
+
+Ship
+{
+
+}
+
+Missile
+{
+	List<HitPosition> posshitPositions;
+
+}
+
+HitPosition
+{
+	Coordinate coordinate;
+	Player player;
+}
+
+Coordinate
+{
+	x,y
+}
+
+BattleShip
+{
+List<Players>
+}
+
+
+
+/game - POST
+PUT
+battleShip
+
+
+
+/player/ CRUD
+
+/ship
+
+/missile
+
+*/
+}
+
+
